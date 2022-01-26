@@ -79,7 +79,7 @@ const Navbar = ({ navScroll, active, setActive }) => {
                 to='about'
                 spy={true}
                 smooth={true}
-                offset={-260}
+                offset={-258}
                 duration={500}
               >
                 About
@@ -91,7 +91,7 @@ const Navbar = ({ navScroll, active, setActive }) => {
                 to='technologies'
                 spy={true}
                 smooth={true}
-                offset={-300}
+                offset={-335}
                 duration={500}
               >
                 Technologies
@@ -103,7 +103,7 @@ const Navbar = ({ navScroll, active, setActive }) => {
                 to='projects'
                 spy={true}
                 smooth={true}
-                offset={-560}
+                offset={-290}
                 duration={500}
               >
                 Projects
@@ -115,7 +115,7 @@ const Navbar = ({ navScroll, active, setActive }) => {
                 to='contact'
                 spy={true}
                 smooth={true}
-                offset={-700}
+                offset={-350}
                 duration={500}
               >
                 Contact
